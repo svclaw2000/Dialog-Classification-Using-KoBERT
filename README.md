@@ -20,5 +20,4 @@ PyTorch, Scikit-learn, XGBoost
 ```
 
 ## 👨‍💻 Members
-- [박규훤](https://github.com/svclaw2000): [FrontEnd] svclaw2000@gmail.com
-- [김다혜](https://github.com/ekgp908): [BackEnd] ekgp908@gmail.com
+- [박규훤](https://github.com/svclaw2000): svclaw2000@gmail.com
