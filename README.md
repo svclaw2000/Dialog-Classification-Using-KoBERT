@@ -2,7 +2,7 @@
 > 박규훤, 정영섭, "KoBERT를 사용한 한국어 일상 주제 분류," 2021 한국컴퓨터종합학술대회 (KCC2021) 논문집, pp.1735-1737, June 23-25, 2021.
 
 ## 📄 Introduction
-"KoBERT를 사용한 한국어 일상 주제 분류" 논문 관련 코드  
+"[KoBERT를 사용한 한국어 일상 주제 분류](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10583420)" 논문 관련 코드  
 국립 국어원 "모두의 말뭉치 서비스"의 '일상 대화 말뭉치 2020'을 이용한 일상 대화 주제 분류
 
 ## 🔑 Features
